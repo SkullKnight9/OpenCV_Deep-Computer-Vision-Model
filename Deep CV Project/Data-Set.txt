@@ -1,0 +1,10 @@
+-> Link for the simpsons dataset which I used to train this model.
+
+-------------------------------------------------------------------------
+
+LINK - > https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
+
+-------------------------------------------------------------------------
+
+-> The Model accuracy is extremly low to be honest and this was more of a test project for myself (I had 0 idea what half the stuff does) but hey, I want to revisit 
+   this back in the future when I have a better understanding of Machine Learning and Deep Learning concepts !!
